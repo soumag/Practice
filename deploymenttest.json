@@ -271,7 +271,7 @@
                     "autoUpgradeMinorVersion": true,
                     "settings": {
                       "fileUris": [
-                        "https://github.com/soumag/Practice/blob/master/testscript.sh"
+                        "https://raw.githubusercontent.com/soumag/Practice/master/testscript.sh"
                       ],
                       "commandToExecute": "bash testscript.sh"
                     }
